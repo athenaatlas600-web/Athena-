@@ -1,0 +1,6 @@
+{
+  "name": "Funk Music Generator",
+  "description": "Generate ultra-funk remixes and full tracks of your favorite music using Lyria and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
